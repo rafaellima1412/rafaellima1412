@@ -1,9 +1,9 @@
 
-#  PytonDeveloper
+#  Developer
 ## 👋 Hi, I’m @rafaellima1412
 - 👀 I’m interested in data cience, python developer
 - 🌱 I’m currently learning GUI
-- 💞️ I’m looking to collaborate on  Python
+- 💞️ I’m looking to collaborate 
 ### 📫 How to reach me rafaellima1412@gmail.com
 
 
