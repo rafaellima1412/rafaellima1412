@@ -1,111 +1,134 @@
 
-#  Developer
-## 👋 Hi, I’m @rafaellima1412
-- 👀 I’m interested in data cience, python developer
-- 🌱 I’m currently learning GUI
-- 💞️ I’m looking to collaborate 
-### 📫 How to reach me rafaellima1412@gmail.com
+👋 Olá, eu sou o Rafael Lima
 
+Arquiteto de Software com forte atuação em backend e cloud, focado em arquiteturas escaláveis, integração entre sistemas e sustentação de aplicações em ambientes distribuídos.
 
+Trabalho no modo tradicional: fundamento forte, domínio bem modelado e código previsível em produção. Modinha passa, sistema fica.
 
-<!---
-rafaellima1412/rafaellima1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🧠 Resumo profissional
 
+Atuação ponta a ponta: arquitetura, código, infraestrutura e deploy
 
-# Título do projeto
+Definição de arquiteturas em AWS para sistemas distribuídos
 
-Um parágrafo da descrição do projeto vai aqui
+Aplicação prática de Clean Architecture e boas práticas de design
 
-## 🚀 Começando
+Decisão de tecnologias, padrões e estratégias de integração
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Apoio técnico a times, code reviews e decisões arquiteturais
 
-Consulte **Implantação** para saber como implantar o projeto.
+Estudo e aplicação de Rust e Web3 para backend de alta performance e contratos inteligentes
 
-### 📋 Pré-requisitos
+🛠️ Stack principal
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+Backend
 
-```
-Dar exemplos
-```
+Go (Golang)
 
-### 🔧 Instalação
+Python (Django, Django REST, FastAPI)
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+TypeScript (NestJS)
 
-Diga como essa etapa será:
+Rust (em estudo e projetos práticos)
 
-```
-Dar exemplos
-```
+C#, C, C++
 
-E repita:
+Web3 / Blockchain
 
-```
-Até finalizar
-```
+Solidity (smart contracts)
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+Backend Web3 (integração com contratos, eventos e wallets)
 
-## ⚙️ Executando os testes
+Conceitos de contratos, gas, eventos e segurança básica
 
-Explicar como executar os testes automatizados para este sistema.
+Bancos de Dados
 
-### 🔩 Analise os testes de ponta a ponta
+PostgreSQL
 
-Explique que eles verificam esses testes e porquê.
+MySQL
 
-```
-Dar exemplos
-```
+Oracle
 
-### ⌨️ E testes de estilo de codificação
+MongoDB
 
-Explique que eles verificam esses testes e porquê.
+SQL avançado (modelagem, queries complexas e performance)
 
-```
-Dar exemplos
-```
+Infraestrutura & Cloud
 
-## 📦 Desenvolvimento
+AWS (ECS, Lambda, VPC, EC2, RDS, S3, CloudFront, API Gateway)
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+CloudFormation
 
-## 🛠️ Construído com
+AWS CDK
 
-Mencione as ferramentas que você usou para criar seu projeto
+DevOps / CI/CD
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+Docker
 
-## 🖇️ Colaborando
+GitHub Actions
 
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+Pipelines automatizados de deploy
 
-## 📌 Versão
+Processos
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+Clean Architecture
 
-## ✒️ Autores
+Scrum / Kanban
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Jira, Confluence
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+💼 Experiência em destaque
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+Freelance — Backend / Infraestrutura (Projeto Riolivre)
+Atuação em desenvolvimento, arquitetura e sustentação de sistema com regras de negócio complexas:
 
-## 📄 Licença
+APIs REST e serviços backend
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Provisionamento e operação de ambientes AWS
 
-## 🎁 Expressões de gratidão
+Integrações assíncronas (telemetria, GPS, timestamps)
 
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
---->
+Monitoramento, análise de falhas e incidentes em produção
+
+Refatoração contínua visando confiabilidade e manutenibilidade
+
+Fundação para Inovações Tecnológicas (FITEC)
+Especialista em Desenvolvimento:
+
+FastAPI, MongoDB e PostgreSQL
+
+Clean Architecture aplicada na prática
+
+AWS ECS, Lambda, VPC e CloudFront
+
+CI/CD com AWS CDK
+
+Instituto de Pesquisa Itriad
+
+Backends em Go, NestJS e C#
+
+Integrações com Protheus, Fluig, Android, máquinas industriais e sistemas terceiros
+
+🎯 Interesses técnicos
+
+Arquitetura limpa e previsível
+
+Sistemas críticos e regras de negócio complexas
+
+Dados, concorrência e consistência
+
+Performance e baixo consumo de recursos
+
+Rust para sistemas seguros e eficientes
+
+Web3 com foco em backend sério, não hype
+
+🔗 Links
+
+GitHub: https://github.com/rafaellima1412
+
+LinkedIn: https://www.linkedin.com/in/rafaellima1412/
+
+📫 Contato
+
+📧 rafaellima1412@gmail.com
