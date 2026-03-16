@@ -36,6 +36,7 @@ Trabalho do jeito tradicional: **fundamento forte, domínio bem modelado e códi
 - Oracle
 - MongoDB
 - SQL avançado (modelagem, queries complexas e performance)
+- SQL server
 
 ### Infraestrutura & Cloud
 - AWS (ECS, Lambda, VPC, EC2, RDS, S3, CloudFront, API Gateway)
