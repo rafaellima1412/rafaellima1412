@@ -25,11 +25,6 @@ Trabalho do jeito tradicional: **fundamento forte, domínio bem modelado e códi
 - Rust *(em estudo e projetos práticos)*
 - C#, C, C++
 
-### Web3 / Blockchain
-- Solidity (smart contracts)
-- Backend Web3 (integração com contratos, eventos e wallets)
-- Conceitos de contratos, gas, eventos e segurança básica
-
 ### Bancos de Dados
 - PostgreSQL
 - MySQL
@@ -53,6 +48,14 @@ Trabalho do jeito tradicional: **fundamento forte, domínio bem modelado e códi
 - Scrum / Kanban
 - Jira
 - Confluence
+
+### Web3 / Blockchain (Entusiasta) 
+- Solidity (smart contracts)
+- Backend Web3 (integração com contratos, eventos e wallets)
+- Conceitos de contratos, gas, eventos e segurança básica
+  
+### RED Team (Entusiasta) 
+- Rust
 
 ---
 
