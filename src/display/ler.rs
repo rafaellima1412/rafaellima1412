@@ -8,7 +8,7 @@ pub fn ler_dados() -> String {
     dados.trim().to_string()
 }
 
-pub fn ler_dados_int() -> i32 {
+pub fn ler_dados_int() -> usize {
     let mut dados: String = String::new();
     io::stdin()
         .read_line(&mut dados)

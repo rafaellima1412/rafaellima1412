@@ -1,7 +1,7 @@
 #[derive(Default)]
 
 pub struct Cliente {
-    pub id: i32,
+    pub id: usize,
     pub nome: String,
     pub cpf: String,
     pub endereco: String,
